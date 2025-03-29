@@ -43,3 +43,30 @@ The Little Lemon API is built using **Django** and **Django REST Framework (DRF)
 
 ## 📂 **Project Structure**
 
+---
+
+## 🔗 **API Endpoints**
+
+### 1. **Menu Endpoints**
+- `GET /api/menu/` – List all menu items  
+- `POST /api/menu/` – Create a new menu item  
+- `GET /api/menu/<id>/` – Retrieve a specific menu item  
+- `PUT /api/menu/<id>/` – Update a menu item  
+- `DELETE /api/menu/<id>/` – Delete a menu item  
+
+### 2. **Table Booking Endpoints**
+- `GET /api/tables/` – List all table bookings  
+- `POST /api/tables/` – Create a new booking  
+- `GET /api/tables/<id>/` – Retrieve booking details  
+- `PUT /api/tables/<id>/` – Update booking  
+- `DELETE /api/tables/<id>/` – Cancel a booking  
+
+---
+
+## ⚡️ **Getting Started**
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/little-lemon-api.git
+cd little-lemon-api
+
