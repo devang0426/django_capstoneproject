@@ -40,11 +40,6 @@ The Little Lemon API is built using **Django** and **Django REST Framework (DRF)
 - **Testing:** Django Test Framework  
 
 ---
-
-## 📂 **Project Structure**
-
----
-
 ## 🔗 **API Endpoints**
 
 ### 1. **Menu Endpoints**
@@ -62,11 +57,4 @@ The Little Lemon API is built using **Django** and **Django REST Framework (DRF)
 - `DELETE /api/tables/<id>/` – Cancel a booking  
 
 ---
-
-## ⚡️ **Getting Started**
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/little-lemon-api.git
-cd little-lemon-api
 
